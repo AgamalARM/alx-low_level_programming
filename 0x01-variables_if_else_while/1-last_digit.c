@@ -6,7 +6,7 @@
  * main - Entry point
  * Description: the program check of last digit of num
  * Return: 0
- */
+*/
 int main(void)
 {
 	int n;
